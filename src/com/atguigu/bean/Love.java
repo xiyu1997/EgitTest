@@ -4,5 +4,6 @@ public class Love {
 
 	public static void main(String[] args) {
 		System.out.println("ILoveYou");
+		System.out.println("ILoveYou,too");
 	}
 }
